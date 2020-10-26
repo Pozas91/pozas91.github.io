@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /guessit_mim/
